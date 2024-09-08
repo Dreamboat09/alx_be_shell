@@ -1,1 +1,1 @@
-editing user permission
+editing permission
